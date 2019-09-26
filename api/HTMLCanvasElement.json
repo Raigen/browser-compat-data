@@ -684,7 +684,8 @@
               "version_added": "50"
             },
             "edge": {
-              "version_added": false
+              "version_added": "12",
+              "prefix": "ms"
             },
             "firefox": {
               "version_added": "19"
